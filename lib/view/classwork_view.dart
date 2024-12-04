@@ -47,10 +47,12 @@ class ClassworkView extends StatelessWidget {
           // Second Column
           Column(
             children: [
-              Container(
-                height: 200,
-                width: double.infinity,
-                color: Colors.blueAccent,
+              Expanded(
+                child: Container(
+                  height: 200,
+                  width: double.infinity,
+                  color: Colors.blueAccent,
+                ),
               ),
             ],
           ),
