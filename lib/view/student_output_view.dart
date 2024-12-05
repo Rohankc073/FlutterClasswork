@@ -25,7 +25,7 @@ class _StudentOutputViewState extends State<StudentOutputView> {
         title: const Text("Output"),
       ),
       body: lstStudents.isEmpty
-          ? const Center(child: Text('Data chaina'))
+          ? const Center(child: Text('Data not available'))
           : StudentListView(
               lstStudents: lstStudents,
             ),
