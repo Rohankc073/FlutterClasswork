@@ -13,7 +13,7 @@ class StudentSingleView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Single Output"),
+        title: const Text("Single Output"),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
@@ -22,9 +22,9 @@ class StudentSingleView extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text('Name: ${student.fname} ${student.lname}',
-                style: TextStyle(fontSize: 20)),
-            SizedBox(height: 10),
-            Text('City: ${student.city}', style: TextStyle(fontSize: 18)),
+                style: const TextStyle(fontSize: 20)),
+            const SizedBox(height: 10),
+            Text('City: ${student.city}', style: const TextStyle(fontSize: 18)),
           ],
         ),
       ),
