@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false, // Hides the debug banner
 
-      home: NumberGridView(), // Sets SimpleGridView as the default screen
+      home: GridCalView(), // Sets SimpleGridView as the default screen
     );
   }
 }
