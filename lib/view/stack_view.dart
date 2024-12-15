@@ -36,12 +36,12 @@ class StackView extends StatelessWidget {
               child: const Text("I am third container"),
             ),
           ),
-          Positioned(
-            bottom: 10,
+          const Positioned(
+            bottom: -50,
             left: 10,
             child: CircleAvatar(
-              radius: 40,
-              child: Image.asset("assets/images/lion.jpeg", fit: BoxFit.cover),
+              radius: 90,
+              backgroundImage: AssetImage("assets/images/lion.jpeg"),
             ),
           )
         ],
