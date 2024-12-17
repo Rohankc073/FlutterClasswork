@@ -5,6 +5,11 @@ class AboutView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(child: Text("About US"));
+    return const Center(
+      child: Text(
+        "About US",
+        style: TextStyle(fontFamily: "Montserrat Italic", fontSize: 20),
+      ),
+    );
   }
 }

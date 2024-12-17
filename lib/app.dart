@@ -13,10 +13,15 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      debugShowCheckedModeBanner: false, // Hides the debug banner
+    return MaterialApp(
+      theme: ThemeData(
+          primarySwatch: Colors.blue,
+          scaffoldBackgroundColor: Colors.grey[100],
+          fontFamily: 'Montserrat Bold'),
+      debugShowCheckedModeBanner: false,
 
-      home: BottomNavigationView(), // Sets SimpleGridView as the default screen
+      home:
+          const BottomNavigationView(), // Sets SimpleGridView as the default screen
     );
   }
 }

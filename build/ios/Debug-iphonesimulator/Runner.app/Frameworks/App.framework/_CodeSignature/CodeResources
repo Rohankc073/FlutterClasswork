@@ -10,19 +10,27 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		pSLJgRiBhoBWk9RUCIsFayAukqY=
+		Oa7a4Dhw981Lv0MT01VcHpFt/pQ=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		TlyZNFTEMoJk+yo707Yrb2QGHbw=
+		E38B+svzQisGU7QYc7NR8udjVTw=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		QCrrWxuGK8fpgjaVajCKEn29eUM=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
 		MtGhqy1N83LymF+xVlvBDq1bNtY=
+		</data>
+		<key>flutter_assets/assets/fonts/Montserrat-Bold.ttf</key>
+		<data>
+		x9kHcir0+4RauX1RW7QU8pZR8AA=
+		</data>
+		<key>flutter_assets/assets/fonts/Montserrat-Italic.ttf</key>
+		<data>
+		dj6cIqdQ/xJBqs8eDk0wUIJ7l4M=
 		</data>
 		<key>flutter_assets/assets/images/lion.jpeg</key>
 		<data>
@@ -42,7 +50,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		nSzUHz2omg6TQPlyrS/3niXx4GU=
+		Gk1ikUYNnAMxUtjwmAihczuYLX8=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -63,21 +71,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hL5vNwUn8vBvvLRTLT68oFtp7Tf1PlPOvs4FnsrGH/E=
+			5tLwjLxlAcZLAxMrSLiHmGr9AbK/EfbHr9wzOkBaiMc=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xwZo9Vmam2JpHCK605/NUx33VhD08Ai4pJGUKCmilV8=
+			65XHjrLAGbMb91kp2go25MLK9na/bIjoEEFUwNL8ZBo=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			/9yXrHqcXROzTEhCvOl8i48VHgpR32cBWpk0rmWKd94=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
@@ -85,6 +93,20 @@
 			<key>hash2</key>
 			<data>
 			eH0WBS/Rqj+Xj/ifDN1v0/73XCfI+QjAo+WtfyEImFY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Montserrat-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hG1YI+XJCaWq1J771x3V8zIKhkD/+GhAv31SnI2GYKU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/Montserrat-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kGqERiIMH9LTaakT3mrHDcxNXW98AqWEkmO1rIinfcU=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/lion.jpeg</key>
@@ -119,7 +141,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OMu2o5MBHT8OEX6iLDBS/DO/468aNUnw3JbR83vthxI=
+			/GXiKfnLfHbnnfqwFq9ZA7VhdQ2GFdbw0LnMps8YfKc=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
