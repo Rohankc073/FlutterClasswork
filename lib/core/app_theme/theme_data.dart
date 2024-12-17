@@ -14,8 +14,8 @@ ThemeData getApplicationTheme() {
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
         textStyle: const TextStyle(
-            fontSize: 18, color: Colors.blue, fontFamily: "Montserrat Bold"),
-        backgroundColor: const Color(0xFF5B16D0),
+            fontSize: 18, color: Colors.white10, fontFamily: "Montserrat Bold"),
+        backgroundColor: Colors.green,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(10),
         ),
