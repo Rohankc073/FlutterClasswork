@@ -5,10 +5,26 @@ class AboutView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(
-      child: Text(
-        "About US",
-        style: TextStyle(fontFamily: "Montserrat Italic", fontSize: 20),
+    return Scaffold(
+      body: Center(
+        // Centers the content on the screen
+        child: Column(
+          children: [
+            Padding(
+              padding: const EdgeInsets.all(10.0),
+              child: TextFormField(
+                decoration: const InputDecoration(
+                  hintText: 'Enter text',
+                ),
+              ),
+            ),
+            const SizedBox(height: 16),
+            ElevatedButton(
+              onPressed: () {},
+              child: const Text('Submit'),
+            ),
+          ],
+        ),
       ),
     );
   }

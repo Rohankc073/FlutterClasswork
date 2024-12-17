@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:project_flutter/core/app_theme/theme_data.dart';
 import 'package:project_flutter/view/bottom_navigation_view.dart';
 // import 'package:project_flutter/view/calculator_view.dart';
 // import 'package:project_flutter/view/data_table_view.dart';
@@ -14,12 +15,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      theme: ThemeData(
-          primarySwatch: Colors.blue,
-          scaffoldBackgroundColor: Colors.grey[100],
-          fontFamily: 'Montserrat Bold'),
+      theme: getApplicationTheme(),
       debugShowCheckedModeBanner: false,
-
       home:
           const BottomNavigationView(), // Sets SimpleGridView as the default screen
     );
